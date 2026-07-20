@@ -1,8 +1,3 @@
-"""
-Payments Mock API Service
-A clean, production-style mock for payment processing workflows.
-"""
-
 from fastapi import FastAPI, HTTPException, Header, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
