@@ -1,5 +1,5 @@
 """
-API key authentication — dead-simple for a mock, easy to harden for real use.
+API key authentication - dead-simple for a mock, easy to harden for real use.
 
 Pass any key that starts with "sk_test_" in the Authorization header:
     Authorization: Bearer sk_test_your_key_here
