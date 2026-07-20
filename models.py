@@ -1,7 +1,3 @@
-"""
-Domain models — every field documented, every default explicit.
-"""
-
 from __future__ import annotations
 
 import uuid
