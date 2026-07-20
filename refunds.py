@@ -19,7 +19,7 @@ def create_refund(
     api_key: str = Depends(verify_api_key),
 ) -> Refund:
     """
-    Refund a succeeded payment — fully or partially.
+    Refund a succeeded payment - fully or partially.
 
     Rules:
     - The payment must be in `succeeded` status.
