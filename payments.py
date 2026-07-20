@@ -1,5 +1,5 @@
 """
-/v1/payments — create, retrieve, list, cancel.
+/v1/payments -create, retrieve, list, cancel.
 """
 
 from __future__ import annotations
